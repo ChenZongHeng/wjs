@@ -6,6 +6,7 @@
   url('../fonts/MiFie-Web-Font.woff') format('woff'), 
   url('../fonts/MiFie-Web-Font.ttf') format('truetype'), 
   url('../fonts/MiFie-Web-Font.svg') format('svg');
+  /* 修改css */
 }
 /* 定义 使用的class */
 .wjsfont {
