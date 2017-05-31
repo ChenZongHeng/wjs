@@ -6,9 +6,14 @@
   url('../fonts/MiFie-Web-Font.woff') format('woff'), 
   url('../fonts/MiFie-Web-Font.ttf') format('truetype'), 
   url('../fonts/MiFie-Web-Font.svg') format('svg');
+<<<<<<< Updated upstream
   /* 再次修改css
   这样会被覆盖吗？
   */
+
+  /* 再次修改css*/
+  /* 这样会被覆盖吗？？ */
+
 }
 /* 定义 使用的class */
 .wjsfont {
